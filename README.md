@@ -7,4 +7,6 @@ Tính năng:
 - Sinh file dữ liệu sách điện tử theo định dạng EPUB và MOBI
 - Sinh file dữ liệu trung gian theo định dạng JSON và XHTML của Microsoft Word
 
-Thư viện này có sử dụng thư viện Components.Epub (https://github.com/vieapps/Books.Components.Epub) để export ra file sách điện tử EPUB
+Thư viện:
+- Books.Components.Epub (https://github.com/vieapps/Books.Components.Epub) để export ra file sách điện tử EPUB
+- Components.Utility (https://github.com/vieapps/Components.Utility)

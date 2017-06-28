@@ -10,3 +10,7 @@ Tính năng:
 Thư viện:
 - Books.Components.Epub (https://github.com/vieapps/Books.Components.Epub) để export ra file sách điện tử EPUB
 - Components.Utility (https://github.com/vieapps/Components.Utility)
+
+-------------------------------------------
+
+This is the component for normalizing and converting Vietnamese "e-book" resources on the Internet (vnthuquan.net, isach.info) into two kinds of ebook (.EPUB & .MOBI)

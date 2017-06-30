@@ -8,7 +8,7 @@ Tính năng:
 - Sinh file dữ liệu trung gian theo định dạng JSON và XHTML của Microsoft Word
 
 Thư viện:
-- Books.Components.Epub (https://github.com/vieapps/Books.Components.Epub) để export ra file sách điện tử EPUB
+- Books.Components.Epub (https://github.com/quynhng/Books.Components.Epub) để export ra file sách điện tử EPUB
 - Components.Utility (https://github.com/vieapps/Components.Utility)
 
 -------------------------------------------
